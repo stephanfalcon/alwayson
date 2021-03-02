@@ -8,7 +8,7 @@ const url = "https://note-taker-api.glitch.me/"
 const interval = () => {
     setInterval(()=>{
         ping()
-    },5000)
+    },fourMinFiftyNineSec)
 }
 
 const ping = () => {
